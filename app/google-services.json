@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1019185822343",
+    "firebase_url": "https://my-admin-55001.firebaseio.com",
+    "project_id": "my-admin-55001",
+    "storage_bucket": "my-admin-55001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019185822343:android:cb6fc5ed4bd4594f",
+        "android_client_info": {
+          "package_name": "com.cadmin.myadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019185822343-r857b7btkkgfbmq2438aimd8uc7465vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhk1v2cvZpMsuunn5m5sCGG_Wsw5J8Umo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
